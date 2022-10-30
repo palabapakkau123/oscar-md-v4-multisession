@@ -38,20 +38,20 @@ global.syt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
 global.snh = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '6285850539404' //dana
+global.pdana = '6285242489614' //dana
 global.povo = '-' //ovo
 global.pgopay = '-' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '085850539404' //indosat
+global.ppulsa = '085242489614' //indosat
 global.pgdc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda' //group WhatsApp 
-global.ppulsa2 = '085850539404' // kalau ada kartu lain isi aja
+global.ppulsa2 = '085242489614' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/Jarotoffc'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '65721 Hongkong'
 global.nomorown = '6285850539404'
 global.namebot = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥'
-global.nameown = '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤'
+global.nameown = 'YanceOffc'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -60,10 +60,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA Jarot 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true] //Ganti jd nomormu sama Namamu
+  ['6285242489614', 'Yan 𝘖𝘧𝘧𝘤', true],
+  ['6285242489614', 'Yan 𝘖𝘧𝘧𝘤', true],
+  ['6285242489614', 'Yan 𝘖𝘧𝘧𝘤', true],
+  ['6285242489614', 'Yan 𝘖𝘧𝘧𝘤', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
