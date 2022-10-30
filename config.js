@@ -38,20 +38,20 @@ global.syt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
 global.snh = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '6285850539404' //dana
+global.pdana = '6285242489614' //dana
 global.povo = '-' //ovo
 global.pgopay = '-' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '085850539404' //indosat
+global.ppulsa = '085242489614' //indosat
 global.pgdc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda' //group WhatsApp 
-global.ppulsa2 = '085850539404' // kalau ada kartu lain isi aja
+global.ppulsa2 = '085242489614' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/Jarotoffc'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '65721 Hongkong'
 global.nomorown = '6285850539404'
-global.namebot = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥'
-global.nameown = '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤'
+global.namebot = 'VENOM-𝘔𝘥'
+global.nameown = 'Yance 𝘖𝘧𝘧𝘤'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -60,10 +60,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA Jarot 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true] //Ganti jd nomormu sama Namamu
+  ['6285242489614', 'Yance 𝘖𝘧𝘧𝘤', true],
+  ['6285242489614', 'Yance Offc', true],
+  ['6285242489614', 'Yance 𝘖𝘧𝘧𝘤', true],
+  ['6285242489614', 'Yance 𝘖𝘧𝘧𝘤', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -111,9 +111,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝘖𝘚𝘊𝘈𝘙-𝘔𝘋 」' //Main Watermark
+global.wm = '                「VENOM-𝘔𝘋 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝘉𝘰𝘵 𝘔𝘶𝘭𝘵𝘪𝘋𝘦𝘷𝘪𝘤𝘦˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝘖𝘚𝘊𝘈𝘙-𝘔𝘋 '
+global.wm3 = '⫹⫺ VENOM-𝘔𝘋 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By 𝘑𝘢𝘳𝘰𝘵`
@@ -191,7 +191,7 @@ global.htjava = '❒'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤'
+global.stickpack = 'YANCE 𝘖𝘧𝘧𝘤'
 global.stickauth = `𝐖𝐡𝐚𝐬𝐭𝐚𝐩𝐩 𝐛𝐨𝐭𝐳`
 
 global.multiplier = 38 // The higher, The harder levelup
